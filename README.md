@@ -1,3 +1,4 @@
 # apnacollege-demo
 i created this repository for revision of git and git hub.
-Author-Satyam Kodale 
+<br>
+<strong>Author-Satyam Kodale</strong> 
